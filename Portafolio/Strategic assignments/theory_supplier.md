@@ -58,10 +58,8 @@ En la industria conocemos el gran problema que conlleva cumplir a tiempo los req
 
 El siguiente modelo no solo permite identificar al proveedor más conveniente sino que también facilita determinar con precisión la cantidad exacta que debemos solicitar a cada uno, respetando el orden establecido. Por tanto,si escojemos precio,calidad y tiempo podemos asegurar no solo costos menores en la adquisicion y tiempo, sino también la calidad del material adquirido, optimizando así toda nuestra cadena de suministro para responder de manera efectiva a las necesidades del mercado.
 
-Sere claro en que, el modelo siguiente solo sera una introduccion como tal.
-
 Sea $P_{1},P_{2},...,P_{n}$ los proveedores disponibles, y supongamos que podemos medir los siguientes factores $x_{1},x_{2},...,x_{m}$. Si cada $x_{i}$ es asociado a $P_{i}$ , entonces $P_{i}(x_{j}) = k_{ij}$
-Consideremos la normalización (Sino existen restricciones por algun preproceso y la variacón entre los factores es significativa) para $x_{i}$ como:
+Consideremos la normalización (Sino existen restricciones por algun preproceso y la variación entre los factores es significativa) para $x_{i}$ como:
 
 a)
 $$V_{x_{n}} =\frac{v_{x_{j}}-v_{min_{x_{i}}}}{v_{max_{x_{i,j}}}-v_{min_{x_{i,j}}}}$$
