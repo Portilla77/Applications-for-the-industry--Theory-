@@ -85,7 +85,7 @@ Supongamos que $P(S_{1})>P(S_{2}),...,>P(S_{n})$ es la  sequencia obtenida despu
 
 Sea $C_{1}>C_{2},...,>C_{n}$ la capacidad asociada a cada $P_{i}$. entonces, el minimo valor entre las dos secuencias anteriores es:
 
-e) 
+e)
 $$\sum_{i=1}^{n}min(P(S_{i}),C_{i}) =min(P(S_{1}),C_{1}),min(P(S_{2}),C_{2}),...,min(P(S_{n}),C_{n})$$
 
 Con lo anterior obtenemos el número máximo de artículos solicitados por proveedor, considerando su capacidad máxima y el análisis de los proveedores propuestos.
